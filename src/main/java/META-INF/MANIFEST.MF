@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+FMLCorePlugin: taeo.terrathaumcraft.asm.LoadingPlugin
+FMLCorePluginContainsFMLMod: true
+FMLAT: 

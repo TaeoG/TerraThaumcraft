@@ -1,0 +1,16 @@
+[
+{
+  "modid": "terrathaumcraft",
+  "name": "TerraThaumcraft",
+  "description": "Compatibility overhaul for Thaumcraft to make it work with Terrafirmacraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TaeoG"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

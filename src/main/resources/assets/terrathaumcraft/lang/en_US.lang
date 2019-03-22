@@ -1,0 +1,186 @@
+?item.terrathaumcraft:thaumiumgreaves.name=Thaumium Greaves
+item.terrathaumcraft:thaumiumchest.name=Thaumium Chestplate
+item.terrathaumcraft:thaumiumboots.name=Thaumium Boots
+item.terrathaumcraft:thaumiumhelm.name=Thaumium Helm
+item.terrathaumcraft:thaumiumunfinishedgreaves.name=Thaumium Unfinished Greaves
+item.terrathaumcraft:thaumiumunfinishedchest.name=Thaumium Unfinished Chestplate
+item.terrathaumcraft:thaumiumunfinishedboots.name=Thaumium Unfinished Boots
+item.terrathaumcraft:thaumiumunfinishedhelm.name=Thaumium Unfinished Helm
+item.terrathaumcraft:thaumiumingot.name=Thaumium Ingot
+item.terrathaumcraft:thaumiumdoubleingot.name=Thaumium Double Ingot
+item.terrathaumcraft:rottenmeat.name=Rotten Flesh
+item.terrathaumcraft:rottenmeatedible.name="Meat"
+item.terrathaumcraft:elementalaxe.name=Axe of the Stream
+item.terrathaumcraft:thaumiumaxe.name=Thaumium Axe 
+item.terrathaumcraft:thaumiumshovel.name=Thaumium Shovel 
+item.terrathaumcraft:thaumiumscythe.name=Thaumium Scythe
+item.terrathaumcraft:thaumiumchisel.name=Thaumium Chisel 
+item.terrathaumcraft:thaumiumsword.name=Thaumium Sword
+item.terrathaumcraft:thaumiumhoe.name=Thaumium Hoe 
+item.terrathaumcraft:thaumiumpickaxe.name=Thaumium Pickaxe 
+item.terrathaumcraft:thaumiummace.name=Thaumium Mace 
+item.terrathaumcraft:thaumiumjavelin.name=Thaumium Javelin 
+item.terrathaumcraft:thaumiumpropick.name=Thaumium Prospector Pick 
+item.terrathaumcraft:thaumiumhammer.name=Thaumium Hammer 
+item.terrathaumcraft:thaumiumknife.name=Thaumium Knife
+item.terrathaumcraft:thaumiumsaw.name=Thaumium Saw
+item.terrathaumcraft:thaumiumaxehead.name=Thaumium Axe Head
+item.terrathaumcraft:thaumiumshovelhead.name=Thaumium Shovel Head
+item.terrathaumcraft:thaumiumscythehead.name=Thaumium Scythe Blade
+item.terrathaumcraft:thaumiumchiselhead.name=Thaumium Chisel Head
+item.terrathaumcraft:thaumiumswordhead.name=Thaumium Sword Blade
+item.terrathaumcraft:thaumiumhoehead.name=Thaumium Hoe Head
+item.terrathaumcraft:thaumiumpickhead.name=Thaumium Pickaxe Head
+item.terrathaumcraft:thaumiummacehead.name=Thaumium Mace Head
+item.terrathaumcraft:thaumiumjavelinhead.name=Thaumium Javelin Head
+item.terrathaumcraft:thaumiumpropickhead.name=Thaumium Prospector Pick Head
+item.terrathaumcraft:thaumiumhammerhead.name=Thaumium Hammer Head
+item.terrathaumcraft:thaumiumknifehead.name=Thaumium Knife Blade
+item.terrathaumcraft:thaumiumsawhead.name=Thaumium Saw Blade
+item.terrathaumcraft:thaumiumsword.name=Thaumium Sword
+item.terrathaumcraft:thaumiumunshaped.name=Unshaped: Thaumium
+item.terrathaumcraft:thaumiumsheet.name=Thaumium Sheet
+item.terrathaumcraft:thaumiumdoublesheet.name=Thaumium Double Sheet
+item.terrathaumcraft:airroughshard.name=Rough Air Shard
+item.terrathaumcraft:fireroughshard.name=Rough Fire Shard
+item.terrathaumcraft:earthroughshard.name=Rough Earth Shard
+item.terrathaumcraft:waterroughshard.name=Rough Water Shard
+item.terrathaumcraft:entropyroughshard.name=Rough Entropy Shard
+item.terrathaumcraft:orderroughshard.name=Rough Order Shard
+
+item.terrathaumcraft:poorairroughshard.name=Poor Rough Air Shard
+item.terrathaumcraft:poorfireroughshard.name=Poor Rough Fire Shard
+item.terrathaumcraft:poorearthroughshard.name=Poor Rough Earth Shard
+item.terrathaumcraft:poorwaterroughshard.name=Poor Rough Water Shard
+item.terrathaumcraft:poorentropyroughshard.name=Poor Rough Entropy Shard
+item.terrathaumcraft:poororderroughshard.name=Poor Rough Order Shard
+
+item.terrathaumcraft:smallairroughshard.name=Small Rough Air Shard
+item.terrathaumcraft:smallfireroughshard.name=Small Rough Fire Shard
+item.terrathaumcraft:smallearthroughshard.name=Small Rough Earth Shard
+item.terrathaumcraft:smallwaterroughshard.name=Small Rough Water Shard
+item.terrathaumcraft:smallentropyroughshard.name=Small Rough Entropy Shard
+item.terrathaumcraft:smallorderroughshard.name=Small Rough Order Shard
+
+item.terrathaumcraft:richairroughshard.name=Rich Rough Air Shard
+item.terrathaumcraft:richfireroughshard.name=Rich Rough Fire Shard
+item.terrathaumcraft:richearthroughshard.name=Rich Rough Earth Shard
+item.terrathaumcraft:richwaterroughshard.name=Rich Rough Water Shard
+item.terrathaumcraft:richentropyroughshard.name=Rich Rough Entropy Shard
+item.terrathaumcraft:richorderroughshard.name=Rich Rough Order Shard
+
+item.terrathaumcraft:airsharddust.name=Air Infused Dust
+item.terrathaumcraft:firesharddust.name=Fire Infused Dust
+item.terrathaumcraft:watersharddust.name=Water Infused Dust
+item.terrathaumcraft:earthsharddust.name=Earth Infused Dust
+item.terrathaumcraft:entropysharddust.name=Entropy Infused Dust
+item.terrathaumcraft:ordersharddust.name=Order Infused Dust
+item.terrathaumcraft:greatwoodmagiclogs.name=Greatwood Log
+item.terrathaumcraft:silverwoodmagiclogs.name=Silverwood Log
+
+
+tile.terrathaumcraft:thaumiumanvil.name=Thaumium Anvil
+tile.terrathaumcraft:magicore.6.name=Cinnabar Ore
+tile.terrathaumcraft:magicore.0.name=Air Infused Stone
+tile.terrathaumcraft:magicore.1.name=Fire Infused Stone
+tile.terrathaumcraft:magicore.2.name=Water Infused Stone
+tile.terrathaumcraft:magicore.3.name=Earth Infused Stone
+tile.terrathaumcraft:magicore.4.name=Order Infused Stone
+tile.terrathaumcraft:magicore.5.name=Entropy Infused Stone
+tile.terrathaumcraft:magicore.7.name=Amber Bearing Stone
+tile.terrathaumcraft:magicore.8.name=Quartz
+tile.terrathaumcraft:magictrunk.silverwood.name=Silverwood Log
+tile.terrathaumcraft:magiclog.silverwood.name=Silverwood Log
+tile.terrathaumcraft:magictrunk.greatwood.name=Greatwood Log
+tile.terrathaumcraft:magiclog.greatwood.name=Greatwood Log
+tile.terrathaumcraft:magicleaves.greatwood.name=Greatwood Leaves
+tile.terrathaumcraft:magicleaves.silverwood.name=Silverwood Leaves
+tile.magicsapling.silverwood.name=Silverwood Sapling
+tile.magicsapling.greatwood.name=Greatwood Sapling
+
+tile.fakemmcobble.Marble.name=Marble Cobblestone
+tile.fakeigexcobble.Rhyolite.name=Rhyolite Cobblestone
+
+fluid.airslurry=Air Infused Slurry
+fluid.fireslurry=Fire Infused Slurry
+fluid.earthslurry=Earth Infused Slurry
+fluid.waterslurry=Water Infused Slurry
+fluid.orderslurry=Order Infused Slurry
+fluid.entropyslurry=Entropy Infused Slurry
+
+gui.plans.wandcap=Wand Caps
+
+entity.terrathaumcraft.GiantBrainyZombie.name=Furious Zombie
+entity.terrathaumcraft.BrainyZombie.name=Angry Zombie
+entity.terrathaumcraft.Wisp.name=Wisp
+entity.terrathaumcraft.CultistKnight.name=Crimson Knight
+entity.terrathaumcraft.CultistCleric.name=Crimson Cleric
+entity.terrathaumcraft.CultistLeader.name=Praetor %s the %d
+entity.terrathaumcraft.CultistPortal.name=Crimson Portal
+entity.terrathaumcraft.InhabitedZombie.name=Shambling Husk
+entity.terrathaumcraft.TaintSpider.name=Tainted Crawler
+entity.terrathaumcraft.Taintacle.name=Taintacle
+entity.terrathaumcraft.TaintacleTiny.name=Taint Tendril
+entity.terrathaumcraft.TaintacleGiant.name=Giant Taintacle
+entity.terrathaumcraft.TaintSpore.name=Taint Spore
+entity.terrathaumcraft.TaintSwarmer.name=Taint Spore Swarmer
+entity.terrathaumcraft.TaintSwarm.name=Taint Swarm
+entity.terrathaumcraft.TaintedVillager.name=Tainted Villager
+entity.terrathaumcraft.TaintedChicken.name=Tainted Chicken
+entity.terrathaumcraft.TaintedPig.name=Tainted Pig
+entity.terrathaumcraft.TaintedSheep.name=Tainted Sheep
+entity.terrathaumcraft.TaintedCow.name=Tainted Cow
+entity.terrathaumcraft.TaintedCreeper.name=Tainted Creeper
+entity.terrathaumcraft.Pech.name=Pech Forager
+entity.terrathaumcraft.Pech.1.name=Pech Mage
+entity.terrathaumcraft.Pech.2.name=Pech Stalker
+entity.terrathaumcraft.ThaumSlime.name=Thaumic Slime
+entity.terrathaumcraft.EntityMagmaCubeTTC.name=Magma Cube
+
+tile.FenceTFC.greatwood.name=Greatwood Fence
+tile.FenceTFC.silverwood.name=Silverwood Fence
+tile.FenceGateTFC.greatwood.name=Greatwood Fence Gate
+tile.FenceGateTFC.silverwood.name=Silverwood Fence Gate
+tile.WoodSupportV2.greatwood.name=Greatwood Support Beam
+tile.WoodSupportV2.silverwood.name=Silverwood Support Beam
+tile.WoodSupportH2.greatwood.name=Greatwood Support Beam
+tile.WoodSupportH2.silverwood.name=Silverwood Support Beam
+tile.Barrel.greatwood.name=Greatwood Barrel
+tile.Barrel.silverwood.name=Silverwood Barrel
+tile.Loom.greatwood.name=Greatwood Loom
+tile.Loom.silverwood.name=Silverwood Loom
+tile.Toolrack.greatwood.name=Greatwood Tool Rack
+tile.Toolrack.silverwood.name=Silverwood Tool Rack
+tile.wood2.greatwood.name=Greatwood Planks
+tile.wood2.silverwood.name=Silverwood Planks
+tile.soulfarmland.name=Tilled Soul Sand
+tile.Door greatwood.name=Greatwood Door
+tile.Door silverwood.name=Silverwood Door
+tile.WoodVert2.greatwood.name=Greatwood Log
+tile.WoodVert2.silverwood.name=Silverwood Log
+
+item.SinglePlank.greatwood.name=Greatwood Lumber
+item.SinglePlank.silverwood.name=Silverwood Lumber
+
+item.Log.silverwood.name=Silverwood Log
+item.Log.greatwood.name=Greatwood Log
+
+
+item.netherwartseeds.name=Nether Wart Seeds
+
+item.lavaseed.scoriapowder.name=Scoria Powder
+item.lavaseed.lavaseed.name=Lava Seed
+
+tile.ArmourStand.greatwood.name=Greatwood Armour Stand
+tile.ArmourStand.silverwood.name=Silverwood Armour Stand
+tile.Chest.greatwood.name=Greatwood Chest
+tile.Chest.silverwood.name=Silverwood Chest
+item.Greatwood Door.name=Greatwood Door
+item.Silverwood Door.name=Silverwood Door
+gui.plans.nuggets=Nuggets
+
+tc.research_name.NETHERMANUFACTURE=Nether Materials
+tc.research_text.NETHERMANUFACTURE=Like a Brick Outta Hell
+researchpage.nethermanu= Thaumaturges may have lost access to the Nether long ago, but they have not lost the ability to infuse the nature of the Nether directly into a sturdy, fire resistant building material, or its light into magic dust.<BR><BR>  Depressant spirits transmuted into sand have also yielded a familiar material.<LINE>
+
+researchpage.netherfarming= §l     §n Nether Farming §r<BR><BR>    A Thaumium Hoe can be used to prepare soulsand for netherwart faming. <BR><BR> CAUTION: The souls don't appreciate being disturbed<LINE>
